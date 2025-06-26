@@ -24,7 +24,7 @@ This project provides a clean and modular starting point for React applications 
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/istiak19/Redux-setup
 cd redux-setup
 npm install
 ````
